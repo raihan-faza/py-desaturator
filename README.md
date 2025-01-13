@@ -24,17 +24,11 @@ pip install -r requirements.txt
 ### Example
 
 ```bash
-python desaturator.py input_image.jpg output_image.jpg
+python conv.py input_image.jpg output_image.jpg
 ```
 
 - `input_image.jpg`: The colorful image you want to convert.
 - `output_image.jpg`: The name of the resulting grayscale image.
-
-## Output Example
-Here’s how the script transforms an image:
-
-- **Input Image:** ![Colorful Image](example_input.jpg)
-- **Output Image:** ![Grayscale Image](example_output.jpg)
 
 ## Contributing
 Contributions are welcome! If you have suggestions or improvements, feel free to submit a pull request.
